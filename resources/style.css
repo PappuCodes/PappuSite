@@ -134,3 +134,26 @@ button:hover {
     margin: 10px;
     padding: 10px;
 }
+
+button .GitButton{
+    background-color: #496E83;
+    font-family:'poppins';
+    color:#F7F5EF;
+    border-radius: 5px;
+    border-color: #496E83;
+    box-shadow: none;
+    padding: 5px;
+    margin: 20px;
+
+}
+
+button .GitButton:hover {
+    background-color: #F7F5EF;
+    font-family:'poppins';
+    color:#496E83;
+    border-radius: 5px;
+    border-color: #496E83;
+    box-shadow: none;
+    padding: 5px;
+    margin: 20px;
+}

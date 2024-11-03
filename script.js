@@ -1,3 +1,6 @@
-const toTop = () => window.scrollTo({top: 0, behavior: "smooth" });
-alert ('Agree to Cookies');
+
+
+function openInNewTab() {
+    window.open("https://github.com/PappuCodes?tab=repositories", "_blank");
+}
 
